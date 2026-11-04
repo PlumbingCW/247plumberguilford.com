@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://247plumberguilford.com/sitemap.xml
